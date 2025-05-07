@@ -1,2 +1,2 @@
-#oc-lore [[Personality]]
+#oc-lore [[PERSONALITY 🎭]]
 After forming a psychic bond with Soul, an ancient dream-plane warden, Mazari became narcoleptic, and her eyes shifted from red, to blue, with spiral-like circles for pupils. This bond gave her protection in the Dreaming Plane but also made her vulnerable to dream predators-- shadowy entities that feed on memories, fear, and identities. The deeper she ventured into dreams, the more dangerous the environment became. Soul is her only anchor in this strange world and keeps her tethered to reality.

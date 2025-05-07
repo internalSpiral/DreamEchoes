@@ -1,4 +1,4 @@
-#relationships [[Mazari]]
+#relationships 
 
 Mazari’s familiar is a draconic dream warden named Soul, an ancient sentinel that once guarded a sacred tree. Appearance-wise, he looks like a dragon serpent with antlers instead of horns. He doesn’t have a physical form; instead, he walks between the spirit realm and reality as a spectral spirit. Soul can’t communicate as humans do. Instead, he projects his emotions telepathically and makes a few spectral dragon noises if necessary. Soul provides Mazari with protection in the Dreaming Plane, but also contributes to her narcolepsy, which makes her vulnerable to dream predators. Mazari perpetually gives some of her energy over to Soul to keep him alive, which is why she's always tired.
 
