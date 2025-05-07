@@ -11,8 +11,3 @@ Dilemma: When Mazari first bonded with Soul, he was nothing but a ghost of himse
 Conclusion: After the ancient tree was healed from its blight, Soul is freed from the Spiritual Realm. Before, Soul was like a branch that was severed from its tree. Now, he has gained full control of his dream magic once more; enabling him to walk between both realms freely.
 
 
-EDIT
-
-
-
-
