@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "36549db836817b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ef3a83c752b7811",
+        "type": "tabs",
+        "dimension": 49.31506849315068,
+        "children": [
+          {
+            "id": "61c19169a2795e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "More Facts and Lore/Self-Induced Amnesia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Self-Induced Amnesia"
+            }
+          },
+          {
+            "id": "67299fc24dda42e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Dreaming Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dreaming Tree"
+            }
+          },
+          {
+            "id": "faf10283d415a943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Dream Realm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dream Realm"
+            }
+          },
+          {
+            "id": "5c14ecb8dc4bc3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relationships/Soul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soul"
+            }
+          },
+          {
+            "id": "994061889ea0104c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "More Facts and Lore/Self-Induced Amnesia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Self-Induced Amnesia"
+            }
+          },
+          {
+            "id": "a6a456ccfde72ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "More Facts and Lore/Self-Induced Amnesia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Self-Induced Amnesia"
+            }
+          },
+          {
+            "id": "7581c54388bfbeb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dreaming Plane/The Dream Realm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dream Realm"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "970cff095452cdb0",
+        "type": "tabs",
+        "dimension": 50.68493150684932,
+        "children": [
+          {
+            "id": "a8b9aa0db3f3cd6f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ee42cd3e53398c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "56b958db3d5aa28b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5160a3848a76f78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae3c9e5c7d04b715",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Mazari",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18731fe4568e360e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2391a6d1bf880c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1ebd413bddba3ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f4d35ab17d0fa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7519a660a7737648",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "36276587611bab78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1544eef3ee8c78e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7581c54388bfbeb6",
+  "lastOpenFiles": [
+    "kljkljkljkljkljkljklj.md",
+    "Dreaming Plane/The Dream Realm.md",
+    "Backstory/Backstory Timeline.md",
+    "remote-dreamechoes/README.md",
+    "Familiar.md",
+    "remote-dreamechoes",
+    "DreamEchoes-Remote",
+    "DreamEchoes (repo)",
+    "DreamEchoes Vault/Relationships/Soul.md",
+    "DreamEchoes Vault/Relationships/Muriel.md",
+    "DreamEchoes Vault/Relationships/Relationships.md",
+    "DreamEchoes Vault/Relationships/Lord Morgrave.md",
+    "DreamEchoes Vault/Relationships/Cassian.md",
+    "DreamEchoes Vault/Relationships/Asra.md",
+    "DreamEchoes Vault/Relationships",
+    "DreamEchoes Vault/Reference Images/expressions study.jpg",
+    "DreamEchoes Vault/Reference Images/Mazari Ref Sheet.jpg",
+    "DreamEchoes Vault/Reference Images/Mazari Collage.jpg",
+    "DreamEchoes Vault/Reference Images",
+    "DreamEchoes Vault/Personality/Narcolepsy.md",
+    "DreamEchoes Vault/Personality/Personality.md",
+    "DreamEchoes Vault/Personality/Magical Abilities.md",
+    "DreamEchoes Vault/Personality/Internalized Survivor.md",
+    "DreamEchoes Vault/Personality",
+    "DreamEchoes Vault/Mazari Harlow/Mazari.md",
+    "DreamEchoes Vault/Mazari Harlow",
+    "DreamEchoes Vault/Lore/Self-Induced Amnesia.md",
+    "DreamEchoes Vault/Lore/Lore.md",
+    "DreamEchoes Vault/Lore/Dream Encounters.md",
+    "DreamEchoes Vault/Lore/Child Trafficking Victim.md",
+    "DreamEchoes Vault/Lore/Child Assassin.md",
+    "DreamEchoes Vault/Lore/Cat Thief.md",
+    "DreamEchoes Vault/Lore",
+    "DreamEchoes Vault/Familiar.md",
+    "DreamEchoes Vault/Dreaming Plane/The Dreaming Tree.md",
+    "DreamEchoes Vault/Dreaming Plane/The Dream Realm.md",
+    "DreamEchoes Vault/Dreaming Plane",
+    "DreamEchoes Vault/Backstory/Backstory Timeline.md",
+    "DreamEchoes Vault/Backstory",
+    "Reference Images/Mazari Ref Sheet.jpg",
+    "Reference Images/Mazari Collage.jpg",
+    "Reference Images/expressions study.jpg",
+    "Mazari Reference Images/Mazari Ref Sheet.canvas",
+    "Untitled.canvas",
+    "Art Portfolio/Finished/Stardew Portraits/portrait.png",
+    "Art Portfolio/Finished/Stardew Portraits/portrait yuh.png",
+    "Art Portfolio/Finished/Stardew Portraits/portrait - Copy.png",
+    "Art Portfolio/Finished/vriska.jpg",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}

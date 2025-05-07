@@ -1,0 +1,14 @@
+#oc-lore
+Even after Soul safeguarded Mazari's past memories, Mazari still remembers a few tidbits about her old habits when she was still an assassin. The innate ones, like some of the habits and reflexes she's picked up on during her life as an assassin as though it was mere muscle memory. While relaxed, Mazari can snap to attention at the slightest of movement, or move away the moment something tries to grab/hit her from behind. The one thing that she highly disliked was touch, especially from those she doesn't know-- a trauma response to the many punishments she went through as a child. 
+
+She heavily relies on her intuition and gut feelings just to get through the day. Sometimes, a familiar scent or even a melody could take her back to a forgotten past memory, where she sees a few snippets of it; only to get horrible migraines afterwards, like something is preventing her from remembering it all. It is heavily frustrating for the little witch, and often stays awake at night trying to find a solution for her amnesia.
+
+Mazari, much like Muriel, has a hard time in big crowds and prefers to stay in. The thought of getting recognized or even perceived also irks her for some reason; a feeling of dread dwelling in the pit of her stomach at the thought. She figures that this was yet another thing that is linked to her past.
+
+Strangely enough, only the children in Vesuvia recognize Mazari’s real form when she encounters them. They remember her as the ‘Kind lady that plays with them and shows them neat tricks’.
+
+Mazari is particularly prone to sleeping in the day, primarily due to the fact that she has a sleep condition called Narcolepsy. While rare, Mazari can also fall asleep suddenly, which is also why she never goes anywhere without Asra (Or Muriel, on cases when Asra is still traveling). Her necklace holds a small vial that helps remedy the effects of her Narcolepsy, especially when she knows she’s going to be outside or by herself for a long period of time.
+
+Mazari has a fondness for the Sea, or anything related to it, as Soul has a strange affinity to water and is able to actually be seen in the physical realm if submerged; though only as a reflection, emitting a glittery, luminous glow as he swims. She tends to visit the docks often, particularly at night, where she allows him to swim around and have fun while also not attracting too much attention.
+
+It is soon revealed that the reason behind Mazari's constant need for secrecy and seclusion is due to her older brother, Cassian, who has been hunting her down ever since she left home to start a new, fresh life with Soul. Even to this day, he holds resentment for the fact that she had left her original roots as an assassin, saying that she squandered her full potential to be someone great in their house. In reality, he despises the fact that she chose Soul over her own kin and left him in their household to suffer alone.
