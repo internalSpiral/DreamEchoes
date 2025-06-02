@@ -6,7 +6,18 @@ Pronouns: She/Her
 Age: 21 years old
 Height: 5’2” ft.
 MBTI: INTP
-Themes/Motif: Sleep, Dreams, Dragons, Liminal Spaces
+Themes/Motif: Sleep, Dreams, Secrets & Liminal Spaces
+
+### **Personality:**
+
+- Magically-induced sleepiness, perpetually tired
+- Secretive, even-tempered and reserved
+- Tranquil, but has gentle anxiety
+
+### **Current Character Plot:**
+
+1. Ever since she bonded with her familiar, Somnus, she became narcoleptic. Most of her time is spent navigating and surviving the Dream Realm, making her feel broken. Her vessel is intrinsically tied to that place, and she can sometimes see things that people don't.
+2. 
 
 ### **Character Traits:**
 Zodiac Sign: Scorpio
@@ -18,11 +29,12 @@ Favorite Food: Vanilla Cheesecake & Lavender shortbread cookies
 Favorite Drink: Chamomile & Lavender Tea, Vanilla Milk
 Favorite Flower: Belladonna Flowers
 MBTI: INTP
-Fursona: Snow Leopard
+Fursona: Black Lamb
 Most likely to: Go MIA to take catnaps in the day, or magically fall asleep in the middle of a conversation (or during a fight, in worse case scenarios). Passive aggressively give someone the cold shoulder when she’s pissed at them
 Other???: Cannot be awoken normally when in magical slumber. Has prophetic dreams but at the cost of some of her memories. There is more that goes on in her dreams, and time is vastly different and may greatly vary each time for each dream (time doesn’t make any sense in dreamland and is a bad omen).
 
 ### **Physical Appearance:**
+
 A dainty, slender young woman with fair skin, long black hair, and greyish-blue eyes. There is a black little beauty mark underneath each eye, and her eyes have a concentric ring pattern instead of pupils. 
 
 > *“Her eyes shimmered with a concentric ring pattern, each layer glowing like ripples in moonlit water.”
