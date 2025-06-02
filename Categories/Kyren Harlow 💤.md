@@ -17,7 +17,8 @@ Themes/Motif: Sleep, Dreams, Secrets & Liminal Spaces
 ### **Current Character Arc - The Cost Of Forgetting**
 
 1. Ever since she bonded with her familiar, Somnus, she became narcoleptic. Most of her time is spent navigating and surviving the Dream Realm, making her feel broken. Her vessel is intrinsically tied to that place, and she can sometimes see things that people don't. Her dreams bleed into reality, making it difficult for her to distinguish dream memories from reality.
-2. 
+2. **The more pain she forgets, the stronger her dreams become**. Her repression makes her dreams dense, twisted, surreal.
+3. - **Somnus eats her nightmares**, but this also means **he must witness her unspoken suffering**, silently carrying the weight of memories she’s abandoned. In return, he **filters** her dreams. Without him, her mind would spiral into madness.
 
 ### **Character Traits:**
 Zodiac Sign: Scorpio
