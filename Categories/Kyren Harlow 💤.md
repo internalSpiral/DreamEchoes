@@ -14,9 +14,9 @@ Themes/Motif: Sleep, Dreams, Secrets & Liminal Spaces
 - Secretive, even-tempered and reserved
 - Tranquil, but has gentle anxiety
 
-### **Current Character Plot:**
+### **Current Character Arc - The Cost Of Forgetting**
 
-1. Ever since she bonded with her familiar, Somnus, she became narcoleptic. Most of her time is spent navigating and surviving the Dream Realm, making her feel broken. Her vessel is intrinsically tied to that place, and she can sometimes see things that people don't.
+1. Ever since she bonded with her familiar, Somnus, she became narcoleptic. Most of her time is spent navigating and surviving the Dream Realm, making her feel broken. Her vessel is intrinsically tied to that place, and she can sometimes see things that people don't. Her dreams bleed into reality, making it difficult for her to distinguish dream memories from reality.
 2. 
 
 ### **Character Traits:**
